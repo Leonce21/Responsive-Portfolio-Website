@@ -67,6 +67,10 @@ $(document).ready(function(){
             1000:{
                 items: 3,
                 nav: false
+            },
+            1500:{
+                items: 4,
+                nav: false
             }
         }
     });
